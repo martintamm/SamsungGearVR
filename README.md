@@ -6,3 +6,4 @@
 * Compatible with Galaxy S7 | S7 edge, Note 5, S6, and S6 edge
 * Field of View 96˚
 * Sensors: Gyro, Accelerometer, Proximity
+* [LINK](http://www.samsung.com/global/galaxy/wearables/gear-vr/)
