@@ -1,1 +1,1 @@
-# SamsungGearVR
+SamsungGearVR
